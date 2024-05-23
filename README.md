@@ -1,5 +1,4 @@
-# Shiny Application
-
+# Regular Expression to Automaton
 This is a Shiny application.
 
 ## Installation
@@ -25,8 +24,7 @@ To install the required packages, you can use the `DESCRIPTION` file.
 ### Installing Dependencies Individually
 
 If you prefer to install each dependency individually, use the following commands in R:
-
-1. Installing the packages:
+- Installing the packages:
 
     ```r
     install.packages("shiny")
