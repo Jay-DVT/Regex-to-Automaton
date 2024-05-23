@@ -1,0 +1,13 @@
+Package: ShinyApp
+Type: ShinyApp
+Title: Regular Expression to Automaton
+Version: 0.1.0
+Author: Diego Villanueva
+Maintainer: Diego Villanueva <diegovt.arbt@gmail.com>
+Description: A text converter from regex to a visual automaton
+Depends:
+    R (>= 4.4.0),
+    shiny,
+    shinydashboard,
+    visNetwork,
+    htmlwidgets
